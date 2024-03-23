@@ -19,7 +19,7 @@ const Navbar = () => {
             alt="logo"
           />
           <p className="nav-logo">
-            Price<span className="text-primary">Wise</span>
+            Weber<span className="text-primary">notifier</span>
           </p>
         </Link>
         <div className="flex items-center gap-5">
